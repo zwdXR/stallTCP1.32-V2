@@ -5,7 +5,7 @@ import/**/{/**/connect as $c/**/}/**/from/**/'cloudflare:sockets';const _=(o,p)=
 // =============================================================================
 
 // --- 基础账号与网络配置 ---
-let UUID = "06b65903-406d-4a41-8463-6fd5c0ee7798"; //修改可用的uuid
+let UUID = "97329ada-86fb-484a-bfc8-a3acb8a4e106"; //修改可用的uuid
 const WEB_PASSWORD = "abc";  //修改你的登录密码
 const SUB_PASSWORD = "123456";  //修改你的订阅密码
 const SUB_TOKEN = "";  //ST裂变Token，留空不启用，支持环境变量 SUB_TOKEN 覆盖
